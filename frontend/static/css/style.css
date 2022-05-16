@@ -1,0 +1,17 @@
+body{
+    color: #fff;
+}
+
+#app{
+  
+    margin-left: 10em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.container{
+    margin: 0 auto;
+    display: flex;
+    max-width: 50vw;
+    flex-direction: column;
+}
